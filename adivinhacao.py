@@ -10,7 +10,7 @@ def jogar():
     total_de_tentativas = 0
     pontos = 1000
 
-    print("Qual o nível de dificuldade?")
+    print("Qual nível de dificuldade?")
     print("(1) Fácil (2) Médio (3) Difícil")
 
     nivel = int(input("Defina o nível: "))
